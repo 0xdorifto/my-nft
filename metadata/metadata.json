@@ -1,0 +1,24 @@
+{
+  "description": "This NFT proves you visited 0xdorfito's website!",
+  "external_url": "https://www.0xdorifto.pt/",
+  "image": "ipfs://QmTYnKLY8QoRfac6WxQ8kw9pVUizy3e2pMPVbRPCCTEZeT",
+  "name": "Takumi Fujiwara",
+  "attributes": [
+    {
+      "trait_type": "Outfit",
+      "value": "White Tee"
+    },
+    {
+      "trait_type": "Vehicle",
+      "value": "Toyota AE86"
+    },
+    {
+      "trait_type": "Age",
+      "value": "18"
+    },
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ]
+}
